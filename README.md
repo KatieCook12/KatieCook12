@@ -28,6 +28,10 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ---
 
+![Metrics](https://github-readme-stats.vercel.app/api?username=KatieCook12&show_icons=true)
+
+---
+
 ## 📌 Featured Work
 
 - 🧩 **LeetCode Problem Solves**  
