@@ -10,25 +10,21 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 - Building **full-stack projects** with a strong UX focus  
 - Practising **data structures & algorithms** with LeetCode  
-- Exploring scalable architectures and cloud deployment  
+- Exploring scalable architectures and cloud deployment
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tools & Languages
 
-**Frontend**
-- React  
-- TypeScript  
-- HTML / CSS  
-
-**Backend & Data**
-- Node.js  
-- MongoDB  
-- SQL  
-
-**Other**
-- Python  
-- AWS  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
@@ -47,20 +43,6 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 [![Katie Cook's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Katie_Cook123&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Katie__Cook123-orange?logo=leetcode)](https://leetcode.com/Katie_Cook123/)
-
----
-
-## 🧰 Tools & Languages
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ---
 
