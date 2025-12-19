@@ -51,7 +51,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 When I’m not programming, you’ll probably find me:
 - 🧶 Crocheting  
 - 🎨 Painting  
-- ⛸️ Figure skating    
+- 🌲 Hiking    
 - 📚 Reading  
 
 ---
