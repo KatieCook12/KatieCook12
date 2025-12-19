@@ -38,8 +38,8 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 - 🧩 **LeetCode Problem Solves**  
   JavaScript & TypeScript solutions organised by difficulty  
-  → [View repository](https://github.com/KatieCook12)
-
+  → [View repository](https://github.com/KatieCook12/LeetCode.git)
+  
 *(More projects coming soon!)*
 
 ---
