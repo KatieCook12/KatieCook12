@@ -1,6 +1,6 @@
 # Hi, I’m Katie ✩₊˚.⋆☾⋆⁺₊✧
 
-I’m a **UX Engineer** with a **First Class Computer Science degree**, passionate about building thoughtful, user-centred digital experiences.
+I’m a **UX Engineer** with a **First Class Computer Science degree** and **professional diploma in UX design**, passionate about building thoughtful, user-centred digital experiences.
 
 I enjoy working across the stack — combining **clean interfaces**, **solid engineering**, and **good problem-solving** to create products that feel great to use.
 
