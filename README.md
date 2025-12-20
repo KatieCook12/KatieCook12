@@ -44,6 +44,19 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ---
 
+## ⭐ Achievements
+
+- LeetCode 50 days badge in 2025
+- First class Computer Science degree
+- 90% univeristy accredited grade in Professional Diploma in UX Design by the UX Design Institute
+- AWS Cloud Practitioner Essentials certificate
+- WAI0.1x: Introduction to Web Accessibility certificate
+- Completed Learn TypeScript course by Scrimba
+- Completed Learn React course by Scrimba
+- Completed Advanced React course by Scrimba
+
+---
+
 ## 📊 LeetCode Stats
 
 [![Katie Cook's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Katie_Cook123&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
