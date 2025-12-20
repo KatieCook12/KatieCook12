@@ -46,14 +46,12 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ## ⭐ Achievements
 
-- LeetCode 50 days badge in 2025
-- First class Computer Science degree
-- 90% univeristy accredited grade in Professional Diploma in UX Design by the UX Design Institute
-- AWS Cloud Practitioner Essentials certificate
-- WAI0.1x: Introduction to Web Accessibility certificate
-- Completed Learn TypeScript course by Scrimba
-- Completed Learn React course by Scrimba
-- Completed Advanced React course by Scrimba
+- Earned the **LeetCode 50 Days Badge (2025)**, demonstrating consistent problem-solving and algorithmic practice  
+- Graduated with a **First-Class Honours degree in Computer Science**  
+- Achieved a **90% accredited grade** in the **Professional Diploma in UX Design** from the **:contentReference[oaicite:0]{index=0}**  
+- Certified in **AWS Cloud Practitioner Essentials** by **:contentReference[oaicite:1]{index=1}**  
+- Completed **WAI0.1x: Introduction to Web Accessibility** 
+- Completed **Learn TypeScript**, **Learn React**, and **Advanced React** courses by **:contentReference[oaicite:2]{index=2}**
 
 ---
 
