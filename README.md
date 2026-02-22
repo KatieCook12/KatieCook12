@@ -46,6 +46,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ## ⭐ Achievements
 
+- Earned the **LeetCode 50 Days Badge (2026)**
 - Earned the **LeetCode 50 Days Badge (2025)**
 - Graduated with a **First-Class Honours degree in Computer Science**  
 - Achieved a **90% university accredited grade** in the **Professional Diploma in UX Design** from the **UX Design Institute**  
