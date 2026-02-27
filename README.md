@@ -16,10 +16,12 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ## 🧰 Tools & Languages
 
-![React](https://img.shields.io/badge/React-eeebd0?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-ebb3a9?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e87ea1?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-e86252?logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-EEEBD0?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-EDCFBD?logo=typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-EBB3A9?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-EA99A5?logo=html5&logoColor=black)
+
+
 ![CSS](https://img.shields.io/badge/CSS-ee2677?logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
