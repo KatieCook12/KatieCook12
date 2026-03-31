@@ -16,18 +16,18 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ## 🧰 Tools & Languages
 
-![React](https://img.shields.io/badge/React-EEEBD0?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-EDCFBD?logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-EBB3A9?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-EA99A5?logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-E87EA1?logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-E8707A?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-E86252?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-EB4465?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ED356E?logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-EE2677?logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-EE2677?logo=pandas&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EE2677?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-ED8B00?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ED8B00?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ED8B00?logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ED8B00?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED8B00?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ED8B00?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ED8B00?logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ED8B00?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ED8B00?logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 
 ---
 
