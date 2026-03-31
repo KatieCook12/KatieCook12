@@ -27,6 +27,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 ![AWS](https://img.shields.io/badge/AWS-ED356E?logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-EE2677?logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-EE2677?logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EE2677?logo=java&logoColor=white)
 
 ---
 
