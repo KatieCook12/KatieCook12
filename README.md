@@ -37,16 +37,6 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 
 ---
 
-## 📌 Featured Work
-
-- 🧩 **LeetCode Problem Solves**  
-  JavaScript & TypeScript solutions organised by difficulty  
-  → [View repository](https://github.com/KatieCook12/LeetCode.git)
-  
-*(More projects coming soon!)*
-
----
-
 ## ⭐ Achievements
 
 - Earned the **LeetCode 50 Days Badge (2026)**
