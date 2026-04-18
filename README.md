@@ -46,7 +46,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 - Achieved a **90% university accredited grade** in the **Professional Diploma in UX Design** from the **UX Design Institute**  
 - Certified in **AWS Cloud Practitioner Essentials** by **Amazon Web Services**  
 - Completed **WAI0.1x: Introduction to Web Accessibility** 
-- Completed **Learn TypeScript**, **Learn React**, **Advanced React**, **Learn Vue** courses by **Scrimba**
+- Completed **Learn TypeScript**, **Learn React**, **Advanced React**, and **Learn Vue** courses by **Scrimba**
 
 ---
 
