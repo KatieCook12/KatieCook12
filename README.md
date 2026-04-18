@@ -28,6 +28,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 ![MySQL](https://img.shields.io/badge/MySQL-D90368?logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-D90368?logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-D90368?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Vue-D90368?logo=vue&logoColor=white)
 
 ---
 
@@ -45,7 +46,7 @@ I enjoy working across the stack — combining **clean interfaces**, **solid eng
 - Achieved a **90% university accredited grade** in the **Professional Diploma in UX Design** from the **UX Design Institute**  
 - Certified in **AWS Cloud Practitioner Essentials** by **Amazon Web Services**  
 - Completed **WAI0.1x: Introduction to Web Accessibility** 
-- Completed **Learn TypeScript**, **Learn React**, and **Advanced React** courses by **Scrimba**
+- Completed **Learn TypeScript**, **Learn React**, **Advanced React**, **Learn Vue** courses by **Scrimba**
 
 ---
 
