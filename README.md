@@ -1,4 +1,4 @@
-# Hi, I’m Katie
+# Hi, I’m Katie ₊˚ʚ ᗢ₊˚✧ ﾟ.
 
 I’m a **UX Engineer** with a **First Class Computer Science degree** and **professional diploma in UX design**, passionate about building thoughtful, user-centred digital experiences.
 
@@ -68,5 +68,5 @@ When I’m not programming, you’ll probably find me:
 
 ---
 
-Thanks for stopping by 💛  
+Thanks for stopping by 🩷  
 Feel free to explore my repositories or check back as I keep building.
